@@ -1,2 +1,2 @@
 # PythonPodcast
-Un poquito de Python tutorial
+I have done a PodCast about Python in Spanish and explaining just the basic code and its fundamentals.
